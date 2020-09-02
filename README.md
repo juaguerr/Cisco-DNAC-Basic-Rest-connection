@@ -6,9 +6,9 @@ The Cisco DNA Center Solution, is part of the Cisco DNA Arquitecture for  digita
 
 DNA Center Basic Rest Connections
 
-The main pourpose of this basic repository is show you how you can understand and create your own basic script to configure and maintain your network via APIs. Here you will find a basic python file where yu will be able to understand how to make calls to your vManage and how those works. The scripts do not have any particular functionality, you are the one who can  provide any API URL or payload that you want to check and execute the REST calls. You can find all the API documentation at your DNA Center in Platform or online at https://developer.cisco.com/docs/dna-center/api/1-3-3-x/#!intent-api-v1-3-3-x
+The main pourpose of this basic repository is show you how you can understand and create your own basic script to configure and maintain your network via APIs. Here you will find a basic python file where yu will be able to understand how to make calls to your DNA Center and how those works. The scripts do not have any particular functionality, you are the one who can  provide any API URL or payload that you want to check and execute the REST calls. You can find all the API documentation at your DNA Center in Platform or online at https://developer.cisco.com/docs/dna-center/api/1-3-3-x/#!intent-api-v1-3-3-x
 
-This script was mainly built to provide a basic understanding on how it works and interact APIs.
+NOTE: This script was mainly built to provide a basic understanding on how it works and interact APIs.
 
 Requirements
 
