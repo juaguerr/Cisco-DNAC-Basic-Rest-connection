@@ -61,7 +61,9 @@ The script have 4 major functions that you can call to make your API Requests.
   d. delete_request
 
 
-Get Example:
+Examples
+
+1. get_request()
   Getting Devices
     To query your devices, you can use the function get_request built inside 'dnac_rest_connection.py'. Since that we already imported it in our interpreter, we can execute it with the URL API '/dna/intent/api/v1/network-device', to get a list of devices. You can find the API documentation in the links already provided.
     
