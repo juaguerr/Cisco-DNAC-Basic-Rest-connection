@@ -24,7 +24,7 @@ Recomendations
 
 Using the Script
 
-Setup
+Setup 
 
    1. Clone the script into your computer
 
@@ -41,9 +41,12 @@ Setup
 
      pip install requests
 
-   4. Setup the correct credentials for your own DNA Center enviroment credentials in the document "credentials.py". By default credentials are pointing out to DNAC Devnet server.
 
-   5. open your python console and import "rest_connection" as dnac
+How to use it
+
+   1. Setup the correct credentials for your own DNA Center enviroment credentials in the document "credentials.py". By default credentials are pointing out to DNAC Devnet server.
+
+   2. open your python console and import "rest_connection" as dnac
    in your terminal:
          
       $python
