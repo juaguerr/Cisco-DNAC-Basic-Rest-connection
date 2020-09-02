@@ -63,7 +63,7 @@ Get Example:
     To query your devices, you can use the function get_request built inside 'dnac_rest_connection.py'. Since that we already imported it in our interpreter, we can execute it with the URL API '/dna/intent/api/v1/network-device', to get a list of devices. You can find the API documentation in the links already provided.
     
        devices = dnac.dnac.get_request('/dna/intent/api/v1/network-device')
-   The variable 'devices' now have the API response, and now you can start to format your data with that variable.
+   The variable 'devices' now have the API response, so you can start to format your data.
 
 NOTE: Since that the default credendials are for the DNAC Devnet server that is public, the only permission that we have with the default user is read-only, that's why it's not possible to make another API call from this script other than get_request(). If you want to test the other functions make sure to have access to a DNA Center with the right permissions or schedule some time at Devnet from Cisco.
 
